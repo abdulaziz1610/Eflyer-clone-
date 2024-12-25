@@ -82,9 +82,6 @@ a {
     outline: none !important;
     color: #222;
 }
-.fashion-section {
-
-}
 .heading {
     font-weight: 600;
     text-align: center;
@@ -103,10 +100,6 @@ a {
     padding: 20px;
     margin-bottom: 20px;
     text-align: center;
-}
-.card-one {
-    /* background-image: url(./images/tshirt-img.png);
-    background-repeat: no-repeat; */
 }
 .card-lastline {
     display: flex;
