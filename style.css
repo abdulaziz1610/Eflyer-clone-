@@ -99,8 +99,7 @@ a {
 .card {
     width: 350px;
     height: 500px;
-    border-color: #666666;
-    box-shadow: #5d5c5c;
+    box-shadow: 0px 0 30px 10px #f0f0f0;
     padding: 20px;
     margin-bottom: 20px;
     text-align: center;
