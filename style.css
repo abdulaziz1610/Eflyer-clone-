@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    font-family: Poppins, sans-serif;
+}
+
+body {
+    color: #666666;
+    font-size: 14px;
+    line-height: 1.80857;
+    font-weight: normal;
+    overflow-x: hidden;
+    font-family: poppins, sans-serif;
+}
+.banner-bg-main {
+    background-size: 100% 100%;
+    width: 100%;
+    float: left;
+    background-image: url(./images/banner-bg.png);
+    height: 800px;
+    background-repeat: no-repeat;
+}
+.container-m {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.header-section-top {
+    width: 100%;
+    float: left;
+    display: flex;
+    background-color: #2b2a29;
+    clip-path: polygon(0 0, 100% 0, 96% 100%, 3% 100%);
+    height: 64px;
+    padding: 10px 10px;
+}
+.row-m {
+    display: flex;
+    justify-content: space-between;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin: 0 -15px;
+}
+.col-sm-12 {
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.custom-menu {
+    width: 100%;
+    height: 45px;
+    display: flex;
+    margin: 0 auto;
+    text-align: center;
+    color: #fff;
+}
+.custom-menu ul {
+    margin: 0px;
+    padding: 0px;
+    display: inline-block;
+}
+ul, li, ol {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+.logo_section {
+    width: 100%;
+    float: left;
+}
+.logo {
+    width: 100%;
+    float: left;
+    text-align: center;
+    padding: 30px 0px;
+}
+a {
+    text-decoration: none !important;
+    outline: none !important;
+    color: #222;
+}
+.fashion-section {
+
+}
+.heading {
+    font-weight: 600;
+    text-align: center;
+}
+.cards {
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.card {
+    width: 350px;
+    height: 500px;
+    border-color: #666666;
+    box-shadow: #5d5c5c;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.card-one {
+    /* background-image: url(./images/tshirt-img.png);
+    background-repeat: no-repeat; */
+}
+.card-lastline {
+    display: flex;
+    justify-content: space-between;
+}
